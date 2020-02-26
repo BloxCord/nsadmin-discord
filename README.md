@@ -13,3 +13,5 @@ nsadmin-discord
 To start the server, execute:
 
     npm start
+
+    [![Run on Repl.it](https://repl.it/badge/github/BloxCord/nsadmin-discord)](https://repl.it/github/BloxCord/nsadmin-discord)
